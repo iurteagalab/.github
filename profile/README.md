@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-These are repositories related to [Iñigo Urteaga](https://iurteaga.github.io/)'s research on methodological and applied aspects of probabilistic machine learning.
+These are repositories related to [Iñigo Urteaga](https://iurteaga.github.io/)'s research on methodological and applied aspects of probabilistic machine learning, done in collaboration with amazing collaboratos and lab-members.
 
 <!--
 
