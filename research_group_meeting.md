@@ -32,32 +32,25 @@ To make our meetings a success, we all agree to the following principles:
 
 - Logistics
     - **When**: Every Tuesday, 11:30 - 13:30
-    - **Where**: beta2 @ BCAM
+    - **Where**: $\beta2$ @ BCAM
 
-- The meeting is divided into **two distinct (~60 minutes) but flexible parts**.
-    
-    1. **Part 1: The Presenter's Lead**
-        - The designated presenter for the week will guide us through the chosen material.
-            - However, **this is not intended to be a one-way lecture**.
+- The meeting is divided into **two distinct (~60 minute) but flexible parts**.
 
-        - The presenter retains control of the pace and focus to ensure the key material is covered within the first hour.
-            - The presenter's role is to provide context, explain the core concepts, and steer the discussion.
+    1. **Part 1: The Presenter's Lead**: The designated presenter guides us through the material, but **this is not a one-way lecture**. The goal is a shared understanding, led by the presenter.
+        - Presenter's Role: To provide context, explain core concepts, steer the discussion, and manage the pace to cover the key material in the first hour.
+        - Audience's Role: To engage actively. Clarifying questions and brief, on-topic discussions are highly encouraged throughout.
 
-        - Clarifying questions and brief, on-topic discussions are highly encouraged throughout the presentation.
-
-    2. **The Deep Dive**: open, deep and collaborative discussion
+    2. **Part 2: The Deep Dive**: It is an open, deep, and collaborative discussion. This is where we can move from "what the paper says" to "what it means for us." There are three main goals:
         - Solidify Understanding:
             - Ensure everyone grasps the key methods, results, and takeaways.
-            - No question is too basic.
-
-        - Identify Gaps: Critically assess the work.
+            - No question is too basic, too technical or too detailed.
+        - Identify Gaps:
+            - Critically assess the work.
             - What are its limitations?
             - What questions remain unanswered?
-            - What knowledge gaps (in our own understanding or in the field) does this work expose?
-
-        - Next Steps: Brainstorm future directions, for research and for us.
-            - How does this connect to our ongoing projects?
-            - What is the logical next experiment?
-            - What should we read next to follow this thread?
-
-- At some point, it's ok to move from "what the paper says" to "what it means for us."
+            - What knowledge gaps (in our own understanding or the field) does this work expose?
+        - Define Next Steps:
+            - Brainstorm future directions for research and for us.
+            - What is the logical next research questions/project?
+            - How does this connect to our work?
+            - What should we read next?
