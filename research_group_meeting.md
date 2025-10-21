@@ -31,7 +31,7 @@ To make our meetings a success, we all agree to the following principles:
 ## The meeting
 
 - Logistics
-    - **When**: Every Tuesday, 11:30 - 13:30
+    - **When**: Every Tuesday, 11:00 - 13:00
     - **Where**: $\beta2$ @ BCAM
 
 - The meeting is divided into **two distinct (~60 minute) but flexible parts**.
